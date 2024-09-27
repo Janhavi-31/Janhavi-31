@@ -29,7 +29,6 @@
     </td>
    <td align="center">
   <a href="https://github.com/Janhavi-31" target="_blank">
-    AFIKSHA">
   </a>
 </td>
 
