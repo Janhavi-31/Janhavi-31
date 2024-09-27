@@ -17,16 +17,6 @@
 <table>
   <tr>
 
-    <td align="center">
-      <a href="https://www.instagram.com/janhavi_narkhede_/" target="_blank">
-       
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/janhavi-narkhede-93627b2a5/" target="_blank">
-      
-      </a>
-    </td>
    <td align="center">
   <a href="https://github.com/Janhavi-31" target="_blank">
   </a>
