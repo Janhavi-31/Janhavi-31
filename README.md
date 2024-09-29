@@ -147,7 +147,7 @@ As a versatile Computer Engineer and a passionate tech enthusiast,I am good at p
           </a>
           <br>CSS
         </td>
-      </tr>
+    
     </tbody>
   </table>
 </div>
