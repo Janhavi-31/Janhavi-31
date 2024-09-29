@@ -196,32 +196,28 @@ As a versatile Computer Engineer and a passionate tech enthusiast,I am good at p
     </tbody>
   </table>
 </div>
-<h3 align="center"> AI Tools & Prompt Engineering</h3>
+<h3 align="center">AI Tools & Prompt Engineering</h3>
 <div align="center">
- <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="6" align="center" style="color: white;">AI Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
-      </td>
-      
-      <td align="center" style="border: none;">
-<!--         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Google Gemini"/> -->
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" /><br>Google Gemini
-      </td>
-
-      <td align="center" style="border: none;">
-        <img src="https://ppc.land/content/images/size/w1200/2023/12/Microsoft-Copilot-Logo.webp" width="80" height="50" alt=""/><br>Copilot
-        
-      </td>
-    </tr>
-  </tbody>
-</table>
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="6" align="center" style="color: white;">AI Tools</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80"/><br>Google Gemini
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://ppc.land/content/images/size/w1200/2023/12/Microsoft-Copilot-Logo.webp" width="80" height="50" alt="Copilot"/><br>Copilot
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <h2 align="center">📫 Let's Connect!</h2>
