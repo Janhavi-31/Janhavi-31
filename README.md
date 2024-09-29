@@ -197,31 +197,6 @@ As a versatile Computer Engineer and a passionate tech enthusiast,I am good at p
   </table>
 </div>
 
-<!-- Infrastructure as Code Section -->
-<div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-    <thead>
-      <tr>
-        <th colspan="2" align="center" style="color: white;">Infrastructure as Code</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50"/><br>Terraform
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/><br>Docker
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-
-
-
-
 <h2 align="center">📫 Let's Connect!</h2>
 
 <table align="center">
