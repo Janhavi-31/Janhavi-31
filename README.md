@@ -119,7 +119,6 @@ As a versatile Computer Engineer and a passionate tech enthusiast,I am good at p
 
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
-
 <h3 align="center">Web Development</h3>
 <div align="center">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -149,10 +148,9 @@ As a versatile Computer Engineer and a passionate tech enthusiast,I am good at p
           <br>CSS
         </td>
       </tr>
-  </tbody>
-</table>
+    </tbody>
+  </table>
 </div>
-
 
 
 <div align="center">
