@@ -118,8 +118,14 @@ As a versatile Computer Engineer and a passionate tech enthusiast,I am good at p
 </p>
 
 
-<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
+<h1 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">
+  Tech Stack
+</h1>
+
 <h3 align="center">Web Development</h3>
+
+<!-- Frontend Section -->
 <div align="center">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
     <thead>
@@ -147,35 +153,35 @@ As a versatile Computer Engineer and a passionate tech enthusiast,I am good at p
           </a>
           <br>CSS
         </td>
-    
+      </tr>
     </tbody>
   </table>
 </div>
 
-
+<!-- Backend Section -->
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Backend</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
-      </td>
-   
-    </tr>
-  </tbody>
-</table>
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="4" align="center" style="color: white;">Backend</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
+<!-- Database Section -->
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-     <th colspan="4" align="center" style="color: white;">Database</th>
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="4" align="center" style="color: white;">Database</th>
       </tr>
     </thead>
     <tbody>
@@ -191,21 +197,26 @@ As a versatile Computer Engineer and a passionate tech enthusiast,I am good at p
   </table>
 </div>
 
-
-
+<!-- Infrastructure as Code Section -->
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="2" align="center" style="color: white;">Infrastructure as Code</th>
-    </tr>
-  </thead>
- 
-</table>
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="2" align="center" style="color: white;">Infrastructure as Code</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50"/><br>Terraform
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/><br>Docker
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
-
-
-
 
 
 
