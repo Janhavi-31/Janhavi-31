@@ -51,7 +51,7 @@ As a versatile Computer Engineer and a passionate tech enthusiast,I am good at p
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Janhavi-31&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Janhavi-&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Janhavi-31&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
