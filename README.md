@@ -64,7 +64,7 @@ As a versatile Computer Engineer and a passionate tech enthusiast,I am good at p
 
 ### GitHub Contribution Chart
 <a href="https://github.com/">Janhavi-31
-    <img src="https://ghchart.rshah.org/Janhavi-31" alt="Janhavi's GitHub Contribution Chart">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Janhavi-31&bg_color=0d1117&color=79ff97&line=ff9933&point=ffffff&area=true&hide_border=true" alt="Janhavi's GitHub Contribution Chart">
 </a>
 
 
